@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Emnet Mesfin 
 
-Track Name: 
+Track Name: Mobile Application Developement
 
-Track Description: 
+Track Description: Developing Mobile applications  
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
